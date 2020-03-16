@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34225" started-at="2020-03-15T23:03:30Z" finished-at="2020-03-15T23:04:05Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34225" started-at="2020-03-15T23:03:30Z" finished-at="2020-03-15T23:04:05Z">
+      <class name="AddSkill">
+        <test-method status="PASS" signature="setup()[pri:0, instance:AddSkill@2f7a2457]" name="setup" is-config="true" duration-ms="8350" started-at="2020-03-16T00:03:31Z" finished-at="2020-03-16T00:03:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addSkill1()[pri:0, instance:AddSkill@2f7a2457]" name="addSkill1" duration-ms="20491" started-at="2020-03-16T00:03:39Z" finished-at="2020-03-16T00:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSkill1 -->
+        <test-method status="PASS" signature="after1()[pri:0, instance:AddSkill@2f7a2457]" name="after1" is-config="true" duration-ms="5215" started-at="2020-03-16T00:03:59Z" finished-at="2020-03-16T00:04:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after1 -->
+      </class> <!-- AddSkill -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
